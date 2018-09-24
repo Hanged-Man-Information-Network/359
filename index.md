@@ -12,18 +12,5 @@ Papa
 #### Secondary Atributes
 #### Norm Stats
 #### Survivor Stats
-#### Qualities
-#### Drawbacks
-
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
- _Italic_ and `Code` text
-
-![Image](src)
-```
+#### [Qualities](Qualities_and_Drawbacks.md)
+#### [Drawbacks](Qualities_and_Drawbacks.md)
