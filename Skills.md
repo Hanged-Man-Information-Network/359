@@ -1,6 +1,6 @@
-Rulebook
+[Rulebook](index.md)
 
- [Charecter Creation]() | [Qualities and Drawbacks](Qualities_and_Drawbacks.md) | [Skills](Skills.md) | [Weapons]() |
+ [Character Creation]() | [Qualities and Drawbacks](Qualities_and_Drawbacks.md) | [Skills](Skills.md) | [Weapons]() |
 ------------ |  ------------ | ------------ | ------------ |
 
 #### Acrobatics (Special)
