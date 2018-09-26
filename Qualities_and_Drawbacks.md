@@ -1,6 +1,6 @@
-## The Forest; In a Rulebook
+[Rulebook](index.md)
 
- [Charecter Creation]() | [Qualities and Drawbacks](Qualities_and_Drawbacks.md) | [Skills](Skills.md) | [Weopons]() |
+ [Character Creation]() | [Qualities and Drawbacks](Qualities_and_Drawbacks.md) | [Skills](Skills.md) | [weapons]() |
 ------------ |  ------------ | ------------ | ------------ |
 
 #### Acute/Impaired Senses
